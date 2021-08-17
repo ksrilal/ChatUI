@@ -1,3 +1,4 @@
 # ChatUI
 HTML &amp; CSS chat app UI
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.png?raw=true)
+
+ ![UI](https://github.com/ksrilal/ChatUI/blob/main/image.png)
